@@ -1,0 +1,8 @@
+type nul > .gitignore
+echo # Visual Studio files >> .gitignore
+echo .vs/ >> .gitignore
+echo *.user >> .gitignore
+echo *.suo >> .gitignore
+.vs/
+*.user
+*.suo
